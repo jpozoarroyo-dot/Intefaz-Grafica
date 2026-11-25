@@ -73,4 +73,9 @@ public class Interfaz extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 }
 // Segundo commit
+<<<<<<< HEAD
 // Holaa
+=======
+//tercer commit
+//cuarto cambio:v
+>>>>>>> e1d3852120ba90955a34beb837a6566bf557a64f
